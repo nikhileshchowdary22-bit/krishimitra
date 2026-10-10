@@ -30,4 +30,4 @@ Any Python host that can run `uvicorn app.main:app --host 0.0.0.0 --port $PORT` 
 
 ## Live Website
 
-[Visit KrishiMitra AI](https://krishimitra2026.vercel.app/)
+(https://krishimitra2026.vercel.app/)
