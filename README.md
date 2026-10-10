@@ -27,3 +27,7 @@ Authentication, PostgreSQL persistence and saved reports, farm profiles, the AI 
 
 ## Deploy
 Any Python host that can run `uvicorn app.main:app --host 0.0.0.0 --port $PORT` works. Verify `/health` and test from a second device before sharing the URL.
+
+## Live Website
+
+[Visit KrishiMitra AI Website](https://krishimitra2026.vercel.app/)
